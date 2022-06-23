@@ -1,0 +1,276 @@
+2022-01-08 18:16:45,864 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-01-08 18:16:55,743 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-01-08 18:17:04,039 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-01-08 18:17:10,066 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-01-08 18:17:21,590 [main] INFO com.essalik.Baseclass.BaseClass - CardPayment sucess
+2022-01-08 22:11:37,095 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-01-08 22:11:40,382 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-01-08 22:11:41,131 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-01-08 22:11:44,197 [main] INFO com.essalik.Baseclass.BaseClass - Username already exists
+2022-01-08 22:12:51,318 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-01-08 22:12:54,936 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-01-08 22:12:55,616 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-01-08 22:13:47,720 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-01-08 22:13:51,053 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-01-08 22:13:51,558 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-01-08 22:16:25,311 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-01-08 22:16:29,045 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-01-08 22:16:29,762 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-02-19 21:28:32,373 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-19 21:28:43,939 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-19 21:29:38,617 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-02-19 21:29:41,966 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-02-19 21:29:42,636 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-02-19 21:33:06,838 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-02-19 21:33:10,014 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-02-19 21:33:10,631 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-02-19 21:45:47,268 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-02-19 21:45:50,957 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-02-19 21:45:51,397 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-02-19 21:52:39,877 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-02-19 21:52:43,763 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-02-19 21:52:44,172 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-02-19 21:55:12,311 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-02-19 21:55:15,216 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-02-19 21:55:15,628 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-02-19 21:55:59,523 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-02-19 22:01:13,231 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-19 22:01:19,128 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-02-19 22:01:20,762 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-02-19 22:16:51,423 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-19 22:16:58,629 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-02-19 22:16:59,863 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-02-23 20:54:34,091 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-23 20:54:45,191 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 20:55:16,901 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-23 20:55:22,332 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-02-23 20:55:23,901 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-02-23 20:57:04,786 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-02-23 20:57:08,469 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-02-23 20:57:08,889 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-02-23 20:58:02,840 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-02-23 20:58:02,842 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-02-23 21:01:27,532 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-23 21:01:44,159 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 21:02:33,270 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-23 21:02:49,600 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 21:08:15,203 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-23 21:08:24,374 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 21:09:14,361 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-23 21:09:25,958 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-02-23 21:09:37,547 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-02-23 21:09:43,663 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-02-23 21:09:55,676 [main] INFO com.essalik.Baseclass.BaseClass - CardPayment sucess
+2022-02-23 21:15:48,664 [main] INFO com.essalik.Baseclass.BaseClass - CHROMEdriver launched
+2022-02-23 21:16:07,806 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 21:16:14,233 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 21:16:20,821 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 21:16:27,196 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-02-23 21:16:36,283 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 21:22:53,406 [main] INFO com.essalik.Baseclass.BaseClass - CHROMEdriver launched
+2022-02-23 21:23:15,198 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-02-23 21:23:15,255 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-02-23 21:26:06,826 [main] INFO com.essalik.Baseclass.BaseClass - CHROMEdriver launched
+2022-02-23 21:26:29,317 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 21:26:35,257 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 21:26:41,285 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 21:26:47,983 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-02-23 21:26:48,073 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-02-23 21:26:56,398 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-02-23 21:28:01,590 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-23 21:31:19,192 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-23 21:31:47,956 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-02-23 21:32:08,219 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-02-23 21:32:16,231 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-02-23 21:32:28,143 [main] INFO com.essalik.Baseclass.BaseClass - CardPayment sucess
+2022-02-24 10:02:33,445 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-02-24 10:02:40,983 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-02-24 10:02:50,552 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-02-24 10:02:56,258 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription fail
+2022-02-24 10:03:05,501 [main] INFO com.essalik.Baseclass.BaseClass - CardPayment fail
+2022-02-24 10:05:54,025 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-02-24 10:06:01,301 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-02-24 10:06:11,290 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-02-24 10:06:18,065 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription fail
+2022-02-24 10:06:26,823 [main] INFO com.essalik.Baseclass.BaseClass - CardPayment fail
+2022-02-24 10:15:05,917 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-02-24 10:15:14,698 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-02-24 10:15:24,689 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-02-24 10:15:30,470 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription fail
+2022-02-24 10:15:41,908 [main] INFO com.essalik.Baseclass.BaseClass - CardPayment sucess
+2022-03-11 17:23:11,153 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 17:23:20,189 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-11 17:23:31,195 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-11 17:23:38,653 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-11 17:23:59,178 [main] INFO com.essalik.Baseclass.BaseClass - CardPayment fail
+2022-03-11 17:35:15,764 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 17:35:28,192 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-11 17:35:39,202 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-11 17:35:46,078 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-11 18:15:09,829 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 18:15:21,567 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-11 18:15:30,510 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-11 18:15:37,126 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-11 18:17:29,552 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 18:17:38,540 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-11 18:17:47,504 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-11 18:17:56,129 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-11 18:19:10,258 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 18:19:22,142 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-11 18:19:32,882 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-11 18:19:39,343 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-11 18:21:20,038 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 18:21:29,381 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-11 18:21:38,707 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-11 18:21:45,608 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-11 18:23:58,840 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 18:24:09,566 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-11 18:24:19,755 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-11 18:24:26,991 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-11 18:27:14,544 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 18:27:25,996 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-11 18:27:38,270 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-11 18:27:46,155 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-11 18:28:05,626 [main] INFO com.essalik.Baseclass.BaseClass - CardPayment fail
+2022-03-11 18:29:34,663 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 18:29:46,406 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-11 18:29:59,699 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-11 18:30:07,701 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-11 18:34:16,201 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 18:34:32,643 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-11 18:34:49,328 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-11 18:34:56,562 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-11 18:35:16,244 [main] INFO com.essalik.Baseclass.BaseClass - CardPayment fail
+2022-03-11 18:36:16,470 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 18:36:37,316 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-11 18:36:52,083 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-11 18:36:59,813 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-11 19:35:14,612 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-03-11 19:35:22,068 [main] INFO com.essalik.Baseclass.BaseClass - Username already exists
+2022-03-11 19:35:22,148 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-11 19:35:22,149 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-11 19:38:06,656 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-03-11 19:38:13,403 [main] INFO com.essalik.Baseclass.BaseClass - Username already exists
+2022-03-11 19:38:13,493 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-11 19:38:13,494 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-11 19:40:49,660 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-03-11 19:40:57,443 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-11 19:40:57,444 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-11 19:49:05,045 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-03-11 19:49:12,315 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-11 19:49:12,317 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-11 19:54:41,373 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-03-11 19:54:58,340 [main] INFO com.essalik.Baseclass.BaseClass - Email Already Exists
+2022-03-11 19:54:58,370 [main] INFO com.essalik.Baseclass.BaseClass - Username already exists
+2022-03-11 19:54:58,420 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-11 19:54:58,421 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-11 19:56:08,140 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-03-11 19:56:25,587 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-11 19:56:25,589 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-11 19:57:16,671 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-03-11 19:57:33,632 [main] INFO com.essalik.Baseclass.BaseClass - Email Already Exists
+2022-03-11 19:57:33,697 [main] INFO com.essalik.Baseclass.BaseClass - Username already exists
+2022-03-11 19:57:33,856 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-11 19:57:33,857 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-11 19:59:46,364 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-03-11 20:00:53,695 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-11 20:00:53,697 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-11 20:02:26,280 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:03:39,035 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:04:46,748 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:05:06,636 [main] INFO com.essalik.Baseclass.BaseClass - signup sucess
+2022-03-11 20:06:49,663 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:06:54,798 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:08:05,691 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:08:10,982 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:11:30,850 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:11:35,558 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:11:36,206 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-11 20:13:06,984 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:13:11,758 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:13:12,411 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-11 20:14:12,732 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:14:17,826 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:14:18,459 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-11 20:14:23,006 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-11 20:14:23,006 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-11 20:17:43,636 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:17:49,798 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:17:50,546 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-11 20:17:55,272 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-11 20:17:55,274 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-11 20:19:17,318 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:19:22,160 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:19:22,837 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-11 20:20:41,820 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:20:46,675 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:20:47,374 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-11 20:22:07,407 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:22:14,301 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:22:14,989 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-11 20:23:44,584 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:23:49,707 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:23:50,489 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-11 20:24:49,636 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:24:54,530 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:24:55,501 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-11 20:27:32,051 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:27:37,146 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:27:38,138 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-11 20:31:03,176 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:31:08,171 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:31:09,302 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-11 20:34:30,457 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:34:35,879 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:36:11,008 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:36:16,558 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:37:45,749 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:37:51,459 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:39:53,145 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:39:58,010 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:42:19,449 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-11 20:42:24,348 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-11 20:42:25,119 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-12 20:22:45,748 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-12 20:22:50,706 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-12 20:22:51,328 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-12 20:24:27,536 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-12 20:24:32,617 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-12 20:24:33,337 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-12 20:28:30,386 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-12 20:28:36,479 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-12 20:28:37,207 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-12 20:28:42,136 [main] INFO com.essalik.Baseclass.BaseClass - Accept Terms & Conditions
+2022-03-12 20:28:42,137 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-12 20:28:42,137 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-12 20:31:54,412 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-12 20:31:59,062 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-12 20:31:59,673 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-12 20:34:43,224 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-12 20:34:49,143 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-12 20:34:49,625 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-12 20:35:04,276 [main] INFO com.essalik.Baseclass.BaseClass - signup sucess
+2022-03-12 20:38:30,244 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-12 20:38:34,702 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-12 20:38:35,310 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-12 20:38:39,639 [main] INFO com.essalik.Baseclass.BaseClass - NO DATA error
+2022-03-12 20:38:39,640 [main] INFO com.essalik.Baseclass.BaseClass - signup fail
+2022-03-12 20:39:36,567 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-12 20:39:42,065 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-12 20:39:43,067 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-12 20:40:06,451 [main] INFO com.essalik.Baseclass.BaseClass - signup sucess
+2022-03-12 20:44:34,066 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-12 20:44:38,603 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-03-12 20:44:39,211 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-12 20:44:57,286 [main] INFO com.essalik.Baseclass.BaseClass - signup sucess
+2022-03-12 20:48:41,856 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-03-12 20:49:00,631 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-12 20:49:24,652 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-03-12 20:49:31,487 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-03-12 20:49:42,363 [main] INFO com.essalik.Baseclass.BaseClass - CardPayment sucess
+2022-03-13 19:52:48,508 [main] INFO com.essalik.Baseclass.BaseClass - CHROMEdriver launched
+2022-03-13 19:53:01,168 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-03-13 19:53:06,565 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-03-13 19:53:12,716 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.
+2022-03-13 19:53:20,423 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-03-13 19:53:30,643 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.

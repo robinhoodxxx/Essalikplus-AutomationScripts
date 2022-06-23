@@ -1,0 +1,23 @@
+2022-01-08 18:16:45,864 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-01-08 18:16:55,743 [main] INFO com.essalik.Baseclass.BaseClass - signIn sucess
+2022-01-08 18:17:04,039 [main] INFO com.essalik.Baseclass.BaseClass - AddProduct success
+2022-01-08 18:17:10,066 [main] INFO com.essalik.Baseclass.BaseClass - BuySubscription success
+2022-01-08 18:17:21,590 [main] INFO com.essalik.Baseclass.BaseClass - CardPayment sucess
+2022-01-08 22:11:37,095 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-01-08 22:11:40,382 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-01-08 22:11:41,131 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-01-08 22:11:44,197 [main] INFO com.essalik.Baseclass.BaseClass - Username already exists
+2022-01-08 22:12:51,318 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-01-08 22:12:54,936 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-01-08 22:12:55,616 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-01-08 22:13:47,720 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-01-08 22:13:51,053 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-01-08 22:13:51,558 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-01-08 22:16:25,311 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-01-08 22:16:29,045 [main] INFO com.essalik.Baseclass.BaseClass - Step_1 signup sucess
+2022-01-08 22:16:29,762 [main] INFO com.essalik.Baseclass.BaseClass - Step_2 signup sucess
+2022-03-24 10:48:08,610 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-03-24 10:48:16,461 [main] INFO com.essalik.Baseclass.BaseClass - Email Already Exists
+2022-06-23 10:25:01,250 [main] INFO com.essalik.Baseclass.BaseClass - firefoxdriver launched
+2022-06-23 10:27:03,781 [main] INFO com.essalik.Baseclass.BaseClass - chromedriver launched
+2022-06-23 10:27:31,503 [main] INFO com.essalik.Baseclass.BaseClass - These credentials do not match our records.

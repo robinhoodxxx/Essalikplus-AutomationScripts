@@ -1,0 +1,612 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite, 4 failed tests</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Essalikpus_end_to_end_tests" class="navigator-link">
+              <span class="suite-name border-failed">Essalikpus end to end tests</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Essalikpus_end_to_end_tests" class="navigator-link ">
+                    <span>C:\Users\91801\Dropbox\My PC (LAPTOP-73S0TF9M)\Desktop\JEE\Essalikplus\Testng_SignIn.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Essalikpus_end_to_end_tests" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Essalikpus_end_to_end_tests" class="navigator-link ">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Essalikpus_end_to_end_tests" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Essalikpus_end_to_end_tests" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Essalikpus_end_to_end_tests" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Essalikpus_end_to_end_tests" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">4 methods, 4 failed,   </span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Essalikpus_end_to_end_tests" class="hide-methods failed suite-Essalikpus_end_to_end_tests"> (hide)</a> <!-- hide-methods failed suite-Essalikpus_end_to_end_tests -->
+                      <a href="#" panel-name="suite-Essalikpus_end_to_end_tests" class="show-methods failed suite-Essalikpus_end_to_end_tests"> (show)</a> <!-- show-methods failed suite-Essalikpus_end_to_end_tests -->
+                    </span>
+                    <div class="method-list-content failed suite-Essalikpus_end_to_end_tests">
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Essalikpus_end_to_end_tests" title="com.essalik.testcases1.SignIn_Testcase" class="method navigator-link" hash-for-method="SignIn">SignIn</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Essalikpus_end_to_end_tests" title="com.essalik.testcases1.AddProduct" class="method navigator-link" hash-for-method="addproduct">addproduct</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Essalikpus_end_to_end_tests" title="com.essalik.testcases1.Payments" class="method navigator-link" hash-for-method="pay(card)">pay(card)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="failed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Essalikpus_end_to_end_tests" title="com.essalik.testcases1.BuySubscription" class="method navigator-link" hash-for-method="subscribe">subscribe</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Essalikpus_end_to_end_tests -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Essalikpus_end_to_end_tests" class="panel Essalikpus_end_to_end_tests">
+          <div class="suite-Essalikpus_end_to_end_tests-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.essalik.testcases1.BuySubscription</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="subscribe">
+                  </a> <!-- subscribe -->
+                  <span class="method-name">subscribe</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//span[normalize-space()=&apos;Settings&apos;]&quot;}
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;LAPTOP-73S0TF9M&apos;, ip: &apos;192.168.179.209&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;15.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f956f743062ab1aa4b454ef4c693f464, findElement {using=xpath, value=//span[normalize-space()=&apos;Settings&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\91801\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64163}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64163/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f956f743062ab1aa4b454ef4c693f464
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy21.click(Unknown Source)
+	at com.essalik.pageobjects.Subscription.ClickSettings(Subscription.java:30)
+	at com.essalik.testcases1.BuySubscription.subscribe(BuySubscription.java:16)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 32 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Essalikpus_end_to_end_tests-class-failed -->
+          <div class="suite-Essalikpus_end_to_end_tests-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.essalik.testcases1.Payments</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="pay(card)">
+                  </a> <!-- pay(card) -->
+                  <span class="method-name">pay</span>
+                  <span class="parameters">(card)</span>
+                  <div class="stack-trace">org.openqa.selenium.WebDriverException: disconnected: Unable to receive message from renderer
+  (Session info: chrome=102.0.5005.115)
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;LAPTOP-73S0TF9M&apos;, ip: &apos;192.168.179.209&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;15.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f956f743062ab1aa4b454ef4c693f464, refresh {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\91801\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64163}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64163/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f956f743062ab1aa4b454ef4c693f464
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:614)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:618)
+	at org.openqa.selenium.remote.RemoteWebDriver$RemoteNavigation.refresh(RemoteWebDriver.java:967)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:55)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.pageobjects.Payment.ClickCardPayment(Payment.java:56)
+	at com.essalik.testcases1.Payments.CardPayment(Payments.java:58)
+	at com.essalik.testcases1.Payments.pay(Payments.java:25)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 32 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Essalikpus_end_to_end_tests-class-failed -->
+          <div class="suite-Essalikpus_end_to_end_tests-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.essalik.testcases1.SignIn_Testcase</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="SignIn">
+                  </a> <!-- SignIn -->
+                  <span class="method-name">SignIn</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [true] but found [false]
+	at com.essalik.testcases1.SignIn_Testcase.SignIn(SignIn_Testcase.java:50)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Essalikpus_end_to_end_tests-class-failed -->
+          <div class="suite-Essalikpus_end_to_end_tests-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.essalik.testcases1.AddProduct</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="addproduct">
+                  </a> <!-- addproduct -->
+                  <span class="method-name">addproduct</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;xpath&quot;,&quot;selector&quot;:&quot;//span[normalize-space()=&apos;Products&apos;]&quot;}
+  (Session info: chrome=102.0.5005.115)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: &apos;4.0.0&apos;, revision: &apos;3a21814679&apos;
+System info: host: &apos;LAPTOP-73S0TF9M&apos;, ip: &apos;192.168.179.209&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;15.0.2&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f956f743062ab1aa4b454ef4c693f464, findElement {using=xpath, value=//span[normalize-space()=&apos;Products&apos;]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\91801\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:64163}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:64163/devtoo..., se:cdpVersion: 102.0.5005.115, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: f956f743062ab1aa4b454ef4c693f464
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:139)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:559)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:383)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:375)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+	at com.sun.proxy.$Proxy21.click(Unknown Source)
+	at com.essalik.pageobjects.AddProducts.ClickProducts(AddProducts.java:59)
+	at com.essalik.testcases1.AddProduct.addproduct(AddProduct.java:24)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+... Removed 32 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Essalikpus_end_to_end_tests-class-failed -->
+        </div> <!-- panel Essalikpus_end_to_end_tests -->
+        <div panel-name="test-xml-Essalikpus_end_to_end_tests" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\91801\Dropbox\My PC (LAPTOP-73S0TF9M)\Desktop\JEE\Essalikplus\Testng_SignIn.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;Essalikpus end to end tests&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;parameter name=&quot;payment&quot; value=&quot;card&quot;/&gt;
+  &lt;test thread-count=&quot;5&quot; name=&quot;End to end testing&quot;&gt;
+    &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.essalik.testcases1.SignIn_Testcase&quot;/&gt;
+      &lt;class name=&quot;com.essalik.testcases1.AddProduct&quot;/&gt;
+      &lt;class name=&quot;com.essalik.testcases1.BuySubscription&quot;/&gt;
+      &lt;class name=&quot;com.essalik.testcases1.Payments&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- End to end testing --&gt;
+&lt;/suite&gt; &lt;!-- Essalikpus end to end tests --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Essalikpus_end_to_end_tests" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Essalikpus end to end tests</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">End to end testing (4 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Essalikpus_end_to_end_tests" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Essalikpus end to end tests</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Essalikpus_end_to_end_tests" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Essalikpus end to end tests</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Essalikpus_end_to_end_tests');
+function tableData_Essalikpus_end_to_end_tests() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(4);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'pay')
+data.setCell(0, 2, 'com.essalik.testcases1.Payments')
+data.setCell(0, 3, 2300449);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'SignIn')
+data.setCell(1, 2, 'com.essalik.testcases1.SignIn_Testcase')
+data.setCell(1, 3, 27862);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'subscribe')
+data.setCell(2, 2, 'com.essalik.testcases1.BuySubscription')
+data.setCell(2, 3, 10069);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'addproduct')
+data.setCell(3, 2, 'com.essalik.testcases1.AddProduct')
+data.setCell(3, 3, 10045);
+window.suiteTableData['Essalikpus_end_to_end_tests']= { tableData: data, tableDiv: 'times-div-Essalikpus_end_to_end_tests'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 39 minutes</span>
+              <div id="times-div-Essalikpus_end_to_end_tests">
+              </div> <!-- times-div-Essalikpus_end_to_end_tests -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Essalikpus_end_to_end_tests" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Essalikpus end to end tests</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Essalikpus_end_to_end_tests" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">6 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.essalik.testcases1.BuySubscription</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">browserQuit</span>
+                <br/>
+                <span class="ignored-method-name">setup</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.essalik.testcases1.Payments</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">browserQuit</span>
+                <br/>
+                <span class="ignored-method-name">setup</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.essalik.testcases1.AddProduct</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">browserQuit</span>
+                <br/>
+                <span class="ignored-method-name">setup</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Essalikpus_end_to_end_tests" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.essalik.testcases1.SignIn_Testcase</div> <!-- chronological-class-name -->
+              <div class="configuration-test before">
+                <span class="method-name">setup(chrome)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-test before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">SignIn</span>
+                <span class="method-start">32952 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.essalik.testcases1.AddProduct</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">addproduct</span>
+                <span class="method-start">60818 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.essalik.testcases1.BuySubscription</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">subscribe</span>
+                <span class="method-start">70870 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.essalik.testcases1.Payments</div> <!-- chronological-class-name -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">pay(card)</span>
+                <span class="method-start">80941 ms</span>
+              </div> <!-- test-method -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.essalik.testcases1.SignIn_Testcase</div> <!-- chronological-class-name -->
+              <div class="configuration-test after">
+                <span class="method-name">browserQuit</span>
+                <span class="method-start">2381526 ms</span>
+              </div> <!-- configuration-test after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>
